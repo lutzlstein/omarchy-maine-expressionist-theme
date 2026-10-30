@@ -49,8 +49,9 @@ Icons: `Yaru-yellow`
 
 ## Backgrounds credits
 
-- `Permissions Size User Date Modified Name
-.rw-r--r--  3.6M cory 19 Oct 15:45  maine-expressionist-primary-dp3-3440x1440.png`: source: TODO, confirm before submitting to the gallery
+- `maine-expressionist-primary-dp3-3440x1440.png`: AI-generated with ChatGPT by Cory Blische.
+
+The background images are released under the same MIT license as the rest of this theme.
 
 ## License
 

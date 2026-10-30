@@ -19,13 +19,14 @@
       "#a9ffb3",
       "#ebf3e5"
     ],
-    "wallpaper": "/home/cory/.config/omarchy/backgrounds/osaka-jade/maine-expressionist-primary-dp3-3440x1440.png",
+    "wallpaper": "",
     "extendedColors": {
       "accent": "#446457",
       "cursor": "#d3af51",
       "selection_background": "#d3af51",
       "selection_foreground": "#020604"
-    }
+    },
+    "wallpaperUrl": "https://raw.githubusercontent.com/lutzlstein/omarchy-maine-expressionist-theme/main/backgrounds/maine-expressionist-primary-dp3-3440x1440.png"
   },
   "adjustments": {
     "blackPoint": 0,

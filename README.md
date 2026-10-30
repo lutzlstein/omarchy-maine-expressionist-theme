@@ -1,0 +1,57 @@
+# Maine Expressionist — Omarchy theme
+
+![Maine Expressionist preview](preview.jpg)
+
+## Install
+
+```
+omarchy-theme-install https://github.com/lutzlstein/omarchy-maine-expressionist-theme
+```
+
+Aether (adds it to your blueprints and applies it):
+
+```
+aether --import-blueprint https://raw.githubusercontent.com/lutzlstein/omarchy-maine-expressionist-theme/main/blueprint.json --auto-apply
+```
+
+## Palette
+
+| Name | Hex | Swatch |
+|---|---|---|
+| accent | `#446457` | ![](https://placehold.co/24x24/446457/446457.png) |
+| selection | `#1b1f1d` | ![](https://placehold.co/24x24/1b1f1d/1b1f1d.png) |
+| selection_foreground | `#020604` | ![](https://placehold.co/24x24/020604/020604.png) |
+| muted | `#3f4542` | ![](https://placehold.co/24x24/3f4542/3f4542.png) |
+| background | `#020604` | ![](https://placehold.co/24x24/020604/020604.png) |
+| dark_background | `#020503` | ![](https://placehold.co/24x24/020503/020503.png) |
+| darker_background | `#010302` | ![](https://placehold.co/24x24/010302/010302.png) |
+| lighter_background | `#1b1f1d` | ![](https://placehold.co/24x24/1b1f1d/1b1f1d.png) |
+| foreground | `#d3af51` | ![](https://placehold.co/24x24/d3af51/d3af51.png) |
+| dark_foreground | `#9e833d` | ![](https://placehold.co/24x24/9e833d/9e833d.png) |
+| light_foreground | `#dabb6b` | ![](https://placehold.co/24x24/dabb6b/dabb6b.png) |
+| bright_foreground | `#dec37d` | ![](https://placehold.co/24x24/dec37d/dec37d.png) |
+| red | `#717155` | ![](https://placehold.co/24x24/717155/717155.png) |
+| yellow | `#d5f5ab` | ![](https://placehold.co/24x24/d5f5ab/d5f5ab.png) |
+| orange | `#86866f` | ![](https://placehold.co/24x24/86866f/86866f.png) |
+| green | `#8db177` | ![](https://placehold.co/24x24/8db177/8db177.png) |
+| cyan | `#91d99a` | ![](https://placehold.co/24x24/91d99a/91d99a.png) |
+| blue | `#446457` | ![](https://placehold.co/24x24/446457/446457.png) |
+| magenta | `#9a8650` | ![](https://placehold.co/24x24/9a8650/9a8650.png) |
+| brown | `#505043` | ![](https://placehold.co/24x24/505043/505043.png) |
+| bright_red | `#8b8959` | ![](https://placehold.co/24x24/8b8959/8b8959.png) |
+| bright_yellow | `#d5fca0` | ![](https://placehold.co/24x24/d5fca0/d5fca0.png) |
+| bright_green | `#a5d48a` | ![](https://placehold.co/24x24/a5d48a/a5d48a.png) |
+| bright_cyan | `#a9ffb3` | ![](https://placehold.co/24x24/a9ffb3/a9ffb3.png) |
+| bright_blue | `#4e7867` | ![](https://placehold.co/24x24/4e7867/4e7867.png) |
+| bright_magenta | `#c2a24e` | ![](https://placehold.co/24x24/c2a24e/c2a24e.png) |
+
+Icons: `Yaru-yellow`
+
+## Backgrounds credits
+
+- `Permissions Size User Date Modified Name
+.rw-r--r--  3.6M cory 19 Oct 15:45  maine-expressionist-primary-dp3-3440x1440.png`: source: TODO, confirm before submitting to the gallery
+
+## License
+
+MIT, see [LICENSE](LICENSE).

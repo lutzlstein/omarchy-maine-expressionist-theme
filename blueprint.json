@@ -1,0 +1,46 @@
+{
+  "name": "Maine Summer",
+  "palette": {
+    "colors": [
+      "#020604",
+      "#717155",
+      "#8db177",
+      "#d5f5ab",
+      "#446457",
+      "#9a8650",
+      "#91d99a",
+      "#d3af51",
+      "#3f4542",
+      "#8b8959",
+      "#a5d48a",
+      "#d5fca0",
+      "#4e7867",
+      "#c2a24e",
+      "#a9ffb3",
+      "#ebf3e5"
+    ],
+    "wallpaper": "/home/cory/.config/omarchy/backgrounds/osaka-jade/maine-expressionist-primary-dp3-3440x1440.png",
+    "extendedColors": {
+      "accent": "#446457",
+      "cursor": "#d3af51",
+      "selection_background": "#d3af51",
+      "selection_foreground": "#020604"
+    }
+  },
+  "adjustments": {
+    "blackPoint": 0,
+    "brightness": 0,
+    "contrast": 0,
+    "gamma": 1,
+    "highlights": 0,
+    "hueShift": 0,
+    "saturation": 0,
+    "shadows": 0,
+    "temperature": 0,
+    "tint": 0,
+    "vibrance": 0,
+    "whitePoint": 0
+  },
+  "settings": {},
+  "timestamp": 1789420192262
+}

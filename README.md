@@ -5,13 +5,13 @@
 ## Install
 
 ```
-omarchy-theme-install https://github.com/lutzlstein/omarchy-maine-expressionist-theme
+omarchy-theme-install https://github.com/lutzlstein/omarchy-maine-summer-dark-theme
 ```
 
 Aether (adds it to your blueprints and applies it):
 
 ```
-aether --import-blueprint https://raw.githubusercontent.com/lutzlstein/omarchy-maine-expressionist-theme/main/blueprint.json --auto-apply
+aether --import-blueprint https://raw.githubusercontent.com/lutzlstein/omarchy-maine-summer-dark-theme/main/blueprint.json --auto-apply
 ```
 
 ## Palette

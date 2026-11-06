@@ -1,6 +1,6 @@
-# Maine Expressionist — Omarchy theme
+# Maine Summer Dark — Omarchy theme
 
-![Maine Expressionist preview](preview.jpg)
+![Maine Summer Dark preview](preview.jpg)
 
 ## Install
 

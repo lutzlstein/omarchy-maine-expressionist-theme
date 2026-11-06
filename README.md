@@ -19,8 +19,8 @@ aether --import-blueprint https://raw.githubusercontent.com/lutzlstein/omarchy-m
 | Name | Hex | Swatch |
 |---|---|---|
 | accent | `#446457` | ![](https://placehold.co/24x24/446457/446457.png) |
-| selection | `#1b1f1d` | ![](https://placehold.co/24x24/1b1f1d/1b1f1d.png) |
-| selection_foreground | `#020604` | ![](https://placehold.co/24x24/020604/020604.png) |
+| selection | `#163717` | ![](https://placehold.co/24x24/163717/163717.png) |
+| selection_foreground | `#91d99a` | ![](https://placehold.co/24x24/91d99a/91d99a.png) |
 | muted | `#3f4542` | ![](https://placehold.co/24x24/3f4542/3f4542.png) |
 | background | `#020604` | ![](https://placehold.co/24x24/020604/020604.png) |
 | dark_background | `#020503` | ![](https://placehold.co/24x24/020503/020503.png) |

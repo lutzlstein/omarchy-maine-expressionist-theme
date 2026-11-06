@@ -49,7 +49,7 @@ Icons: `Yaru-yellow`
 
 ## Backgrounds credits
 
-- `maine-expressionist-primary-dp3-3440x1440.png`: AI-generated with ChatGPT by Cory Blische.
+- `1-moonlit-lake-loon.webp`: AI-generated with ChatGPT by Cory Blische.
 
 The background images are released under the same MIT license as the rest of this theme.
 

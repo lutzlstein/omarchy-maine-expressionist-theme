@@ -47,6 +47,13 @@ aether --import-blueprint https://raw.githubusercontent.com/lutzlstein/omarchy-m
 
 Icons: `Yaru-yellow`
 
+## Backgrounds
+
+| | | |
+|---|---|---|
+| <a href="backgrounds/1-moonlit-lake-loon.webp"><img src="backgrounds/1-moonlit-lake-loon.webp" alt="1-moonlit-lake-loon.webp" width="260"></a><br><sub>Original source</sub> | <a href="backgrounds/2-slightly-less-expressionist.webp"><img src="backgrounds/2-slightly-less-expressionist.webp" alt="2-slightly-less-expressionist.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> | <a href="backgrounds/3-fractal-abstraction.webp"><img src="backgrounds/3-fractal-abstraction.webp" alt="3-fractal-abstraction.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> |
+| <a href="backgrounds/4-bauhaus.webp"><img src="backgrounds/4-bauhaus.webp" alt="4-bauhaus.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> | <a href="backgrounds/5-interior-forest-scene-small-stream.webp"><img src="backgrounds/5-interior-forest-scene-small-stream.webp" alt="5-interior-forest-scene-small-stream.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> | <a href="backgrounds/7-add-boat.webp"><img src="backgrounds/7-add-boat.webp" alt="7-add-boat.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> |
+
 ## Backgrounds credits
 
 - `1-moonlit-lake-loon.webp`: AI-generated with ChatGPT by Cory Blische.
